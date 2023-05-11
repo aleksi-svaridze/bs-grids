@@ -1,0 +1,11 @@
+.box {
+    height: 348px;
+    background: #882828;
+}
+.box-2 {
+    height: 160px;
+    background: rgba(26, 161, 121, 0.502);
+}
+.card-img-custom-style {
+    height: 300px;
+}
