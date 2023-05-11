@@ -1,9 +1,4 @@
 .box {
-    height: 320px;
-    background: #209F62;
-}
-@media screen and (min-width: 768px) {
-    .box {
-        height: 280px;
-    }
+    height: 297px;
+    background: #7B4141;
 }
